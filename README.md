@@ -37,7 +37,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import expandAcronyms from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-acronyms@esm/index.mjs';
+import expandAcronyms from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-acronyms@v0.0.1-esm/index.mjs';
 ```
 
 #### expandAcronyms( str )
@@ -76,7 +76,7 @@ var out = expandAcronyms( str );
 <body>
 <script type="module">
 
-import expandAcronyms from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-acronyms@esm/index.mjs';
+import expandAcronyms from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-acronyms@v0.0.1-esm/index.mjs';
 
 var str = 'LOL, this is fun. I am ROFL.';
 var out = expandAcronyms( str );
