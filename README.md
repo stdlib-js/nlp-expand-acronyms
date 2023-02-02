@@ -37,7 +37,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import expandAcronyms from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-acronyms@deno/mod.js';
+import expandAcronyms from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-acronyms@v0.0.1-deno/mod.js';
 ```
 
 #### expandAcronyms( str )
@@ -71,7 +71,7 @@ var out = expandAcronyms( str );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import expandAcronyms from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-acronyms@deno/mod.js';
+import expandAcronyms from 'https://cdn.jsdelivr.net/gh/stdlib-js/nlp-expand-acronyms@v0.0.1-deno/mod.js';
 
 var str = 'LOL, this is fun. I am ROFL.';
 var out = expandAcronyms( str );
