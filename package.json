@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/nlp-expand-acronyms",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Expand acronyms.",
   "license": "Apache-2.0",
   "author": {
