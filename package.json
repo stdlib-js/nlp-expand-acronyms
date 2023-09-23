@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/nlp-expand-acronyms",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Expand acronyms.",
   "license": "Apache-2.0",
   "author": {
@@ -37,16 +37,16 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-string": "^0.0.8",
-    "@stdlib/assert-is-uppercase": "^0.0.8",
-    "@stdlib/nlp-tokenize": "^0.0.11",
-    "@stdlib/string-format": "^0.0.3",
-    "@stdlib/string-lowercase": "^0.0.9",
-    "@stdlib/utils-keys": "^0.0.7"
+    "@stdlib/assert-is-string": "^0.1.0",
+    "@stdlib/assert-is-uppercase": "^0.1.0",
+    "@stdlib/nlp-tokenize": "^0.1.0",
+    "@stdlib/string-format": "^0.1.0",
+    "@stdlib/string-lowercase": "^0.1.0",
+    "@stdlib/utils-keys": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/bench": "^0.0.12",
-    "@stdlib/datasets-moby-dick": "^0.0.8",
+    "@stdlib/bench": "^0.1.0",
+    "@stdlib/datasets-moby-dick": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
