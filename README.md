@@ -121,6 +121,12 @@ out = expandAcronyms( str );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/nlp-expand-contractions`][@stdlib/nlp/expand-contractions]</span><span class="delimiter">: </span><span class="description">expand contractions.</span>
+
 </section>
 
 <!-- /.related -->
@@ -193,6 +199,12 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/nlp-expand-acronyms/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/nlp-expand-acronyms/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/nlp/expand-contractions]: https://github.com/stdlib-js/nlp-expand-contractions
+
+<!-- </related-links> -->
 
 </section>
 
