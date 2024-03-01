@@ -42,7 +42,8 @@
     "@stdlib/nlp-tokenize": "^0.2.1",
     "@stdlib/string-format": "^0.2.1",
     "@stdlib/string-lowercase": "^0.2.1",
-    "@stdlib/utils-keys": "^0.2.1"
+    "@stdlib/utils-keys": "^0.2.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/datasets-moby-dick": "^0.2.1",
