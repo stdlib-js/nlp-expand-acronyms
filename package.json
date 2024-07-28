@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/nlp-expand-acronyms",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Expand acronyms.",
   "license": "Apache-2.0",
   "author": {
@@ -37,16 +37,16 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-string": "^0.2.1",
-    "@stdlib/assert-is-uppercase": "^0.2.1",
-    "@stdlib/nlp-tokenize": "^0.2.1",
-    "@stdlib/string-format": "^0.2.1",
-    "@stdlib/string-lowercase": "^0.2.1",
-    "@stdlib/utils-keys": "^0.2.1",
-    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
+    "@stdlib/assert-is-string": "^0.2.2",
+    "@stdlib/assert-is-uppercase": "^0.2.2",
+    "@stdlib/nlp-tokenize": "^0.2.2",
+    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/string-lowercase": "^0.3.0",
+    "@stdlib/utils-keys": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/datasets-moby-dick": "^0.2.1",
+    "@stdlib/datasets-moby-dick": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
