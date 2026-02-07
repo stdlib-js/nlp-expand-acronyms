@@ -40,7 +40,7 @@
     "@stdlib/assert-is-string": "^0.2.3",
     "@stdlib/assert-is-uppercase": "^0.2.2",
     "@stdlib/nlp-tokenize": "^0.2.3",
-    "@stdlib/string-format": "^0.2.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3",
     "@stdlib/string-lowercase": "^0.3.0",
     "@stdlib/utils-keys": "^0.2.3",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
