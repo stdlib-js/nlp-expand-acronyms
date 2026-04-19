@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-04-19)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`e681a88`](https://github.com/stdlib-js/stdlib/commit/e681a88aa4e510f32408271c1d504cc4bd78e0bf) - **bench:** refactor to use string interpolation in `nlp` [(#11605)](https://github.com/stdlib-js/stdlib/pull/11605) _(by Karan Anand)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Karan Anand
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-07)
